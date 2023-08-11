@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     button.addEventListener('click', (event) => {
-        alert("como estas");
+        alert("Hola!");
         event.stopPropagation();
     });
 
